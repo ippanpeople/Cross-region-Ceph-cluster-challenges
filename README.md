@@ -5,9 +5,9 @@ This project aims to evaluate the feasibility of constructing a cross-region Cep
 
 Objectives
 
-	•	Ceph Cluster: Set up a cross-region Ceph cluster over a WAN environment.
-	•	Live Migration: Test live migration of instances between regions to ensure seamless operation across distributed infrastructure.
-	•	Challenge Exploration: Analyze and document challenges such as latency, network performance, data consistency, and storage redundancy across geographically separated nodes.
+	• Ceph Cluster: Set up a cross-region Ceph cluster over a WAN environment.
+	• Live Migration: Test live migration of instances between regions to ensure seamless operation across distributed infrastructure.
+	• Challenge Exploration: Analyze and document challenges such as latency, network performance, data consistency, and storage redundancy across geographically separated nodes.
 
 Methodology
 
@@ -15,9 +15,9 @@ We utilize Sakura Cloud’s infrastructure to simulate a WAN environment, deploy
 
 Challenges
 
-	•	Network Latency: Addressing potential issues related to higher latency in cross-region communication.
-	•	Data Consistency: Ensuring data integrity and consistency across different regions during migration.
-	•	Performance Overhead: Managing the performance impact on storage and network throughput.
+	• Network Latency: Addressing potential issues related to higher latency in cross-region communication.
+	• Data Consistency: Ensuring data integrity and consistency across different regions during migration.
+	• Performance Overhead: Managing the performance impact on storage and network throughput.
 
 Conclusion
 
